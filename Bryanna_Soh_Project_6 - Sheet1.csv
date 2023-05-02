@@ -1,0 +1,11 @@
+answer_to_Q1,answer_to_Q2,answer_to_Q3,answer_to_Q4,answer_to_Q5,age,gender,occupation
+8,4,2,difference honoring feminism,no,13,male,coder/student
+3,3,9,difference denying feminism,no,23,female,teacher
+4,2,10,difference denying feminism,no,21,female,college student
+8,5,7,difference denying feminism,no,53,male,software engineer
+4,5,7,difference denying feminism,yes,49,female,registered nurse
+2,2,10,difference honoring feminism,no,25,male,procurement analyst
+3,3,10,difference denying feminism,no,20,female,college student
+5,8,9,difference removing feminism,no,20,female,college student
+3,1,10,difference denying feminism,no,20,female,college student
+2,1,9,difference denying feminism,no,20,female,college student
